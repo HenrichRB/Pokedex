@@ -11,6 +11,17 @@ h1 {
     text-align: center;
 }
 
+footer {
+    max-width: 320px;
+    margin: auto;
+}
+
+footer p{
+    font-size: 0.7em;
+    margin: 0px;
+    text-align: center;
+}
+
 .content {
     padding: 1rem;
     background-color: #fff;
